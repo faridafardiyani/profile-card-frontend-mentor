@@ -29,7 +29,7 @@ body {
 
 /* ==================== card ======================= */
 .card {
-    width: 300px;
+    width: 352px;
     border-radius: 15px;
     text-align: center;
     background-color: #fff;
@@ -40,7 +40,7 @@ body {
     background: url("./images/bg-pattern-card.svg") center center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 120px;
+    height: 150px;
     border-radius: 15px 15px 0 0;
 }
 
@@ -87,7 +87,7 @@ img.prof-pict {
 
 hr {
     /* border: 1px solid hsl(0, 0%, 59%); */
-    border-top: 1px solid hsl(0, 15%, 88%);
+    border-top: 1px solid #cecece;
     margin-top: -35px;
 }
 
